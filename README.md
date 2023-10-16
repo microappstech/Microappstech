@@ -1,61 +1,58 @@
-# Hi there 👋 My name is hamza mouddakir Full Stack Web Developer Portfolio
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+# Hi there! 👋 I'm Hamza Mouddakir
 
-Welcome to my Full Stack Web Developer portfolio! 👋
-<a href="https://hamza-mouddakir.web.app">portfolio</a>
+Welcome to my GitHub profile! I'm a passionate Full Stack Web Developer with a focus on building robust and scalable applications. Here's a bit about my expertise:
 
-## About Me
-I am a passionate and skilled Full Stack Web Developer with expertise in a variety of technologies. My tech stack includes:
+## 🚀 Skills
 
-- **Backend:** .NET Core, Php 
+- **Backend:** .NET Core, C#
 - **Frontend:** ReactJS, Bootstrap, Tailwind CSS
 - **Databases:** SQL Server, MySQL
-- **Authentication:** ASP.NET Identity
-
-## Project Highlights
-
-Here are some of the key features and projects that showcase my development skills:
-
-### Project 1: AwesomeWebApp
-
-- Developed a responsive web application using ReactJS for the frontend and .NET Core for the backend.
-- Utilized Bootstrap for a clean and modern UI design.
-- Integrated with SQL Server to manage and store data efficiently.
-
-### Project 2: CoolDashboard
-
-- Created a dynamic and interactive dashboard using ReactJS components.
-- Implemented custom styling using Tailwind CSS to enhance the user experience.
-- Utilized MySQL for efficient data storage and retrieval.
-
-## Skills
-
-- **Languages:** C#, JavaScript, SQL
-- **Frameworks:** .NET Core, ReactJS
-- **UI Libraries:** Bootstrap, Tailwind CSS
-- **Databases:** SQL Server, MySQL
 - **Authentication & Authorization:** ASP.NET Identity
+<!-- (url)- **Other Technologies:** [List any other relevant technologies or frameworks you're experienced with] 
 
-## Get Started
+## 💻 Projects
 
-To run the projects locally, follow these steps:
+Check out some of the cool projects I've been working on:
 
-1. Clone the repository: `git clone https://github.com/microappstech/project-you-want`
-2. Navigate to the project directory.
-3. Install dependencies for both frontend and backend.
-   - For the frontend: `cd frontend && npm install`
-   - For the backend: `cd backend && dotnet restore`
-4. Configure database connections in the respective `appsettings.json` files.
-5. Run the frontend and backend servers concurrently.
+### [Project Name 1]
 
-```bash
-# Run frontend
-cd frontend
-npm start
+- [Brief description and link to the project]
 
-# Run backend
-cd backend
-dotnet run
+### [Project Name 2]
+
+- [Brief description and link to the project]
+
+### [Project Name 3]
+
+- [Brief description and link to the project]-->
+
+## 🌱 Currently Learning
+
+I'm always exploring new technologies and improving my skills. Currently, I'm diving into IA using python.
+
+## 📫 Let's Connect
+
+I'm open to collaboration and always eager to connect with fellow developers. Feel free to reach out to me on:
+
+- [LinkedIn](https://ma.linkedin.com/in/hamza-mouddakir-b4467a1b9)
+<!--
+- [Twitter](https://twitter.com/your-twitter-handle)
+-->
+- [Email](mailto:Hamzamouddakur@gmail.com)
+<!--
+## 🎓 Education
+
+[Briefly mention your educational background, if applicable]
+
+## 👨‍💻 Experience
+
+[Highlight any relevant work experience or projects]
+-->
+## 🌐 Check Out My Portfolio
+
+For a more detailed look at my work, you can visit my portfolio: https://hamza-mouddakir.web.app/
+
+Happy coding! 🚀
