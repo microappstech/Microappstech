@@ -1,12 +1,16 @@
-# Full Stack Web Developer Portfolio
+# Hi there 👋 My name is hamza mouddakir Full Stack Web Developer Portfolio
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 Welcome to my Full Stack Web Developer portfolio! 👋
+<a href="https://hamza-mouddakir.web.app">portfolio</a>
 
 ## About Me
-
 I am a passionate and skilled Full Stack Web Developer with expertise in a variety of technologies. My tech stack includes:
 
-- **Backend:** .NET Core
+- **Backend:** .NET Core, Php 
 - **Frontend:** ReactJS, Bootstrap, Tailwind CSS
 - **Databases:** SQL Server, MySQL
 - **Authentication:** ASP.NET Identity
