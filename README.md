@@ -1,13 +1,13 @@
+# Hi there! 👋 I'm Hamza Mouddakir
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-# Hi there! 👋 I'm Hamza Mouddakir
+</div> 
 
 Welcome to my GitHub profile! I'm a passionate Full Stack Web Developer with a focus on building robust and scalable applications. Here's a bit about my expertise:
 
 ## 🚀 Skills
 
-- **Backend:** .NET Core, C#
+- **Backend:** .NET Core, Blazor server, C#
 - **Frontend:** ReactJS, Bootstrap, Tailwind CSS
 - **Databases:** SQL Server, MySQL
 - **Authentication & Authorization:** ASP.NET Identity
