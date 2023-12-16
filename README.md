@@ -5,8 +5,13 @@
 
 Welcome to my GitHub profile! I'm a passionate Full Stack Web Developer with a focus on building robust and scalable applications. Here's a bit about my expertise:
 
-<div>
+<div  >
+  <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=microappstech&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=microappstech&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
   <picture>
+    
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=microappstech&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
