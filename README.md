@@ -4,7 +4,20 @@
 </div> 
 
 Welcome to my GitHub profile! I'm a passionate Full Stack Web Developer with a focus on building robust and scalable applications. Here's a bit about my expertise:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=microappstech)](https://github.com/microappsech/microappstech)
+
+<div>
+  <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=microappstech&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=microappstech&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=microappstch&show_icons=true" />
+</picture>
+</div>
 ## 🚀 Skills
 
 - **Backend:** .NET Core, Blazor server, C#
