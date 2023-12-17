@@ -63,6 +63,6 @@ I'm open to collaboration and always eager to connect with fellow developers. Fe
 -->
 ## 🌐 Check Out My Portfolio
 
-For a more detailed look at my work, you can visit my portfolio: https://hamza-mouddakir.web.app/
+For a more detailed look at my work, you can visit my portfolio: https://hamza-mouddakir.tech/
 
 Happy coding! 🚀
