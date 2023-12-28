@@ -15,7 +15,8 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Web Developer with a f
   
 </picture>
 </div>
-## 🚀 Skills
+
+## 🚀Skills
 
 - **Backend:** .NET Core, Blazor server, C#
 - **Frontend:** ReactJS, Bootstrap, Tailwind CSS
