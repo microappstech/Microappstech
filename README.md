@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Web Developer with a f
 ## 🚀Skills
 
 - **Backend:** C#, .NET Core, Blazor server, PHP
-- **Frontend:** Javascript ReactJS, Tailwind CSS, Bootstrap
+- **Frontend:** Javascript ReactJS, Tailwind CSS, Radzen blazor , Bootstrap
 - **Databases:** SQL Server, MySQL
 - **Authentication & Authorization:** ASP.NET Identity, JWT
 <!-- (url)- **Other Technologies:** [List any other relevant technologies or frameworks you're experienced with] 
